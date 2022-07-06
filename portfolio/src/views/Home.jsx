@@ -1,5 +1,5 @@
 import React from "react";
-// import Header from "../../components/header/Header";
+import Header from "../components/header/Header"
 // import Slider from "../../components/slider/Slider";
 // import About from "../../components/about/About";
 // import Portfolio from "../../components/portfolio/Portfolio";
@@ -14,7 +14,7 @@ import React from "react";
 const HomeOne = () => {
     return (
         <div className="home-one">
-            {/* <Header /> */}
+            <Header />
             {/* End Header Section */}
 
             {/* <Slider /> */}
